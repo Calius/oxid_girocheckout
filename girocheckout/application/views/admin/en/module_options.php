@@ -2,7 +2,7 @@
   /**
  * Payment Modul fur girosolution.de.
  *
- * @version   4.1.2
+ * @version   4.1.4
  * @author    OCS
  * @copyright 2011-2016 GiroSolution AG
  * @link      http://www.girosolution.de
